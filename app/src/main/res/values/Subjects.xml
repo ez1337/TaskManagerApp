@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="subjects_array">
+        <item>PMULT</item>
+        <item>PSP</item>
+        <item>EIE</item>
+        <item>SGE</item>
+        <item>DINT</item>
+        <item>ENG</item>
+    </string-array>
+</resources>

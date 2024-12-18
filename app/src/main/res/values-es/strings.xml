@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProyectoGestorTarea</string>
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+    <string name="task_title">Nombre asignatura</string>
+    <string name="task_descrp">Descripción</string>
+    <string name="task_date">Fecha</string>
+    <string name="task_status">Estado de finalización</string>
+    <string name="status_complete">Terminada</string>
+    <string name="status_incomplete">Pendiente</string>
+    <string name="cancel_btn">Cancelar</string>
+    <string name="accept_btn">Aceptar</string>
+</resources>

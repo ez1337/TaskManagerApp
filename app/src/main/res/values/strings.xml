@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProyectoGestorTarea</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="task_title">Subject title</string>
+    <string name="task_descrp">Description</string>
+    <string name="task_date">Date</string>
+    <string name="task_status">Completion status</string>
+    <string name="status_complete">Finished</string>
+    <string name="status_incomplete">Pending</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="accept_btn">Accept</string>
+</resources>
