@@ -48,6 +48,4 @@ public class TaskListFragment extends Fragment {
         rvTasks.setLayoutManager(new LinearLayoutManager(getContext()));
         return view;
     }
-
-
 }

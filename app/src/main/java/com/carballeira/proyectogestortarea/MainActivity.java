@@ -30,8 +30,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 DialogFragment dialogFragment = new NewTaskFragment();
-                dialogFragment.show(getSupportFragmentManager(), "");
+                dialogFragment.show(getSupportFragmentManager(), "new-task");
             }
         });
+
     }
 }
